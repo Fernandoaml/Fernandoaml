@@ -103,14 +103,7 @@
             align="center"
             src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/linkedin/linkedin-original.svg"
             alt="fernandoaml"
-            height="33"
-            width="33"
+            height="25"
+            width="25"
     /></a>
-    <img
-            align="center"
-            src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/yarn/yarn-original-wordmark.svg"
-            alt="yarn"
-            height="33"
-            width="33"
-    />
 </p>
