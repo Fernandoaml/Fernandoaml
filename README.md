@@ -1,2 +1,119 @@
-# About Me.
+<h1 align="center">
+  Hi dear
+  <img
+    src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"
+    width="30px"
+  />, I'm Fernando Leite.
+</h1>
+<h3 align="center">
+  A Freelance Full Stack Developer, with most knowledge in Back-End.
+</h3>
+<h5 align="center">
+  The most of my jobs are to private companies. But i have few open codes to
+  work challenges. <br />In a near future i will post new open content to help
+  the development community.
+</h5>
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Fernandoaml&color=yellowgreen"
+    alt="Fernandoaml"
+  />
+</p>
+- ➡ You will can see my future opened development codes and projects, in
+my website [fleite.dev](https://fleite.dev). I'm open to contact on: 
+➡ 📱 +55-11-93347-9712 📧 ➡ fernando@fleite.dev  **NodeJs, TypeScript, ReactJs, NOSQL
+(MongoDB, Redis), SASS, CSS, Docker**
 
+- ➡ Nowadays i working on [Martins](https://www.martinsatacado.com.br), in a few
+projects.
+
+- 👨‍💻 All of my projects are available at [mayk.brito.net.br](https://mayk.brito.net.br)
+
+- ➡ You will can see my future opened development codes and projects, in my website [fleite.dev](https://fleite.dev).
+
+- 📫 How to reach me:  📱 +55-11-93347-9712 📧 ➡ fernando@fleite.dev
+
+- 💬 Ask me about **NodeJs, React, MongoDB, Redis**
+
+- ⚡ Fun fact **Beard 🧔🏻**
+
+<p align="left">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/react/react-original-wordmark.svg"
+    alt="react"
+    width="20"
+    height="20"
+  />
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/typescript/typescript-original.svg"
+    alt="typescript"
+    width="20"
+    height="20"
+  />
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/nodejs/nodejs-original-wordmark.svg"
+    alt="nodejs"
+    width="20"
+    height="20"
+  />
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/javascript/javascript-original.svg"
+    alt="javascript"
+    width="20"
+    height="20"
+  />
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/mongodb/mongodb-original-wordmark.svg"
+    alt="mongodb"
+    width="20"
+    height="20"
+  />
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/redis/redis-original-wordmark.svg"
+    alt="redis"
+    width="20"
+    height="20"
+  />
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/docker/docker-original-wordmark.svg"
+    alt="docker"
+    width="20"
+    height="20"
+  />
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/sass/sass-original.svg"
+    alt="sass"
+    width="20"
+    height="20"
+  />
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/css3/css3-original.svg"
+    alt="css"
+    width="20"
+    height="20"
+  />
+</p>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=fernandoleite&show_icons=true"
+    alt="fernandoleite"
+  />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/fernandoaml" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/linkedin/linkedin-original.svg"
+      alt="fernandoaml"
+      height="20"
+      width="20"
+  /></a>
+  <img
+    align="center"
+    src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/yarn/yarn-original-wordmark.svg"
+    alt="yarn"
+    height="20"
+    width="20"
+  />
+</p>
