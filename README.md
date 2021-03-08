@@ -87,7 +87,12 @@
 </p>
 <p align="center">
     <img
-            src="https://github-readme-stats.vercel.app/api?username=fernandoleite&show_icons=true"
+            src="https://github-readme-stats.vercel.app/api?username=Fernandoaml&show_icons=true&count_private=true&theme=outrun&locale=en&hide_border=false"
+            alt="fernandoleite"
+    />
+    <br/>
+    <img
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandoaml&layout=compact&theme=outrun"
             alt="fernandoleite"
     />
 </p>
