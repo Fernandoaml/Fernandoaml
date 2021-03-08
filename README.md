@@ -18,22 +18,16 @@
     src="https://komarev.com/ghpvc/?username=Fernandoaml&color=yellowgreen"
     alt="Fernandoaml"
   />
-</p>
-- ➡ You will can see my future opened development codes and projects, in
-my website [fleite.dev](https://fleite.dev). I'm open to contact on: 
-➡ 📱 +55-11-93347-9712 📧 ➡ fernando@fleite.dev  **NodeJs, TypeScript, ReactJs, NOSQL
-(MongoDB, Redis), SASS, CSS, Docker**
-
 - ➡ Nowadays i working on [Martins](https://www.martinsatacado.com.br), in a few
 projects.
-
-- 👨‍💻 All of my projects are available at [mayk.brito.net.br](https://mayk.brito.net.br)
 
 - ➡ You will can see my future opened development codes and projects, in my website [fleite.dev](https://fleite.dev).
 
 - 📫 How to reach me:  📱 +55-11-93347-9712 📧 ➡ fernando@fleite.dev
 
 - 💬 Ask me about **NodeJs, React, MongoDB, Redis**
+
+- **NodeJs, TypeScript, ReactJs, NOSQL(MongoDB, Redis), SASS, CSS, Docker**
 
 - ⚡ Fun fact **Beard 🧔🏻**
 
