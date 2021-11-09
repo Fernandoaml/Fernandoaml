@@ -6,7 +6,7 @@
     />, I'm Fernando Leite.
 </h1>
 <h3 align="center">
-    A Freelance Full Stack Developer, with most knowledge in Back-End.
+    A Freelance Back End Developer.
 </h3>
 <h5 align="center">
     The most of my jobs are to private companies. But i have few open codes to
@@ -19,7 +19,7 @@
             alt="Fernandoaml"
     />
 
-   - ➡ Nowadays i working on [Martins](https://martins.com.br)
+   - ➡ Nowadays i working on [AWS Code]()
    
    - ➡ You will can see my future opened development codes and projects, in my website [Fernando Leite](https://fleite.dev)
    
