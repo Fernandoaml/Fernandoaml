@@ -1,9 +1,6 @@
 <h1 align="center">
     Hi...
-    <img
-            src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"
-            width="5px"
-    />, I'm Fernando Leite.
+    , I'm Fernando Leite.
 </h1>
 <h3 align="center">
     A Freelance Back End Developer.
