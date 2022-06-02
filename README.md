@@ -2,7 +2,7 @@
     Hi...
     <img
             src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"
-            width="30px"
+            width="5px"
     />, I'm Fernando Leite.
 </h1>
 <h3 align="center">
